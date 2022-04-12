@@ -6,11 +6,11 @@ public interface SettingConstants {
 
     // default template code
     String TEMPLATE = "//\n" +
-            "//  ${function_name}\n" +
-            "//  @Description: ${todo}\n" +
-            "//  @receiver ${receiver}\n" +
-            "//  @param ${params}\n" +
-            "//  @return ${return_types}\n" +
+            "// ${function_name}\n" +
+            "// @Description: ${todo}\n" +
+            "// @receiver ${receiver}\n" +
+            "// @param ${params}\n" +
+            "// @return ${return_types}\n" +
             "//";
 
     // default method template
@@ -27,19 +27,19 @@ public interface SettingConstants {
 
     // default template code
     String INTERFACE_METHOD_TEMPLATE = "//\n" +
-            "//  ${function_name}\n" +
-            "//  @Description: ${todo}\n" +
-            "//  @receiver ${receiver}\n" +
-            "//  @param ${params}\n" +
-            "//  @return ${return_types}\n" +
+            "// ${function_name}\n" +
+            "// @Description: ${todo}\n" +
+            "// @receiver ${receiver}\n" +
+            "// @param ${params}\n" +
+            "// @return ${return_types}\n" +
             "//";
 
 //
-//  ${function_name}
-//  @Description: ${todo}
-//  @receiver ${receiver}
-//  @param ${params}
-//  @return ${return_types}
+// ${function_name}
+// @Description: ${todo}
+// @receiver ${receiver}
+// @param ${params}
+// @return ${return_types}
 //
 
 
